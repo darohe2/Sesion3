@@ -87,7 +87,7 @@ final class StaticWordLibrary extends WordLibrary {
         "batsartcoin", //change1
         "maibuguos", //chang2
         "ratimhteci",
-        "abkclssha", //change5
+        "abkclssha", //change5 changew6
         "ibmtpa",
         "iccrmutsnaec",
         "ocbmnitaoni",
